@@ -6,4 +6,9 @@
 # Liability
 We are not liable for any damages that may arise from using cheesy
 
+# Blocking you from the service
+We reserve the right to block you from the service at anytime for any reason
+
+# You agree to our rules aligned in the transparency page
+
 [View Privacy](privacy.md) | [View Transparency](transparency.md)
